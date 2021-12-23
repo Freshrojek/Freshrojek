@@ -4,10 +4,10 @@
       <img src="https://github-readme-stats.vercel.app/api?username=Freshrojek&show_icons=true&theme=algolia">
     </td>
     <td width="30%">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Freshrojek&layout=compact&langs_count=8&theme=algolia">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Freshrojek&layout=compact&langs_count=4&theme=algolia">
     </td>
     <td width="30%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Freshrojek&amp;langs_count=8&amp;theme=algolia">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Freshrojek&amp;langs_count=4&amp;theme=algolia">
     </td>
   </tr>
 </table>
